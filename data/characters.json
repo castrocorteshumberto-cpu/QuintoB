@@ -38,14 +38,14 @@
     "id": 6,
     "nombre": "Luis Mario Aguilera",
     "image": "https://static.wikitide.net/italianbrainrotwiki/thumb/b/b7/Pi_pi_potato.jpeg/300px-Pi_pi_potato.jpeg",
-    "edad": "No se",
-    "descripcion": "Sin informacion"
+    "edad": "19 años",
+    "descripcion": "Tiene una iguana y es foraneo"
   },
   {
     "id": 7,
     "nombre": "Carlo Davila",
     "image": "https://i.redd.it/hn3rd1lacs231.jpg",
-    "edad": "No se",
+    "edad": "19",
     "descripcion": "Sin informacion"
   },
   {
@@ -122,8 +122,8 @@
     "id": 18,
     "nombre": "Joan Ariel Ruacho",
     "image": "https://64.media.tumblr.com/a7196c03f39f0165a1d38158992b5be9/tumblr_nq1zsbWVUE1qigfjto1_500.jpg",
-    "edad": "No se",
-    "descripcion": "Sin informacion"
+    "edad": "19 años",
+    "descripcion": "Gracioso, positivo y ocurrente"
   },
   {
     "id": 19,
@@ -136,7 +136,7 @@
     "id": 20,
     "nombre": "Angel Gabriel Tovar",
     "image": "https://static.wikia.nocookie.net/floptok/images/5/53/Hijabrina.png/revision/latest?cb=20260221104310",
-    "edad": "No se",
-    "descripcion": "Sin informacion"
+    "edad": "18 años",
+    "descripcion": "Fue sin querer queriendaj"
   }
 ]
