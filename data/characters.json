@@ -45,8 +45,8 @@
     "id": 7,
     "nombre": "Carlo Davila",
     "image": "https://i.redd.it/hn3rd1lacs231.jpg",
-    "edad": "19",
-    "descripcion": "Sin informacion"
+    "edad": "20 años",
+    "descripcion": "Delirios de grandeza"
   },
   {
     "id": 8,
@@ -80,22 +80,22 @@
     "id": 12,
     "nombre": "Julio Alberto Lopez",
     "image": "https://img.wattpad.com/d31a47287ec1d683db4568f0e4caa5bacd42a6a1/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f78787742664e342d7633314f64773d3d2d313035363034393135372e3136376564363632363630633365656133333234383332353036332e6a7067?s=fit&w=720&h=720",
-    "edad": "No se",
-    "descripcion": "Sin informacion"
+    "edad": "20 años",
+    "descripcion": "Adicto a los lonches de adobada"
   },
   {
     "id": 13,
     "nombre": "Ernesto Luna",
     "image": "https://m.media-amazon.com/images/I/51L7rAjwfbS._AC_UF894,1000_QL80_.jpg",
-    "edad": "No se",
-    "descripcion": "Sin informacion"
+    "edad": "20 años",
+    "descripcion": "Adicto al valorant y a la coca. Diabetes tipo c"
   },
   {
     "id": 14,
     "nombre": "Alejandro Machado",
     "image": "https://i.pinimg.com/474x/ff/46/f6/ff46f6ecccb69caf430859c11e34ce7f.jpg",
-    "edad": "No se",
-    "descripcion": "Sin informacion"
+    "edad": "19 años",
+    "descripcion": "Futuro millonario"
   },
   {
     "id": 15,
@@ -108,8 +108,8 @@
     "id": 16,
     "nombre": "Cesar Leonel Morillon",
     "image": "https://i.pinimg.com/474x/f0/ec/d7/f0ecd7dd50a2029cffdc89240a5f6201.jpg",
-    "edad": "No se",
-    "descripcion": "Sin informacion"
+    "edad": "22 años",
+    "descripcion": "Emo depresivo"
   },
   {
     "id": 17,
